@@ -2,7 +2,8 @@
 - 👀 I’m interested in Kotlin/Android
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Mobile Develop
-- 📫 How to reach me @arthorre
+- 📫 How to reach me: 
+     * Telegram: @arthorre
 
 <!---
 roddg86/roddg86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
