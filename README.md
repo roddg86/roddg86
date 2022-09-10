@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Mobile Develop
 - 📫 How to reach me: 
-     * Telegram: @arthorre
+     * Telegram: [@arthorre](https://t.me/arthorre)
 
 <!---
 roddg86/roddg86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
