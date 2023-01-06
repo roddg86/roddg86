@@ -20,10 +20,6 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roddg86&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### :man_technologist: About Me :
 
 I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian.
@@ -32,7 +28,11 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Mobile Develop
 
-----
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roddg86&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
