@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div id="hello" align="center">
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dmitry
@@ -14,8 +14,7 @@
 ---
 
 <div align="center">
- <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="600" height="300"/>
-
+ <img src="https://media.giphy.com/media/5xYi3s3qSpEGlPQkAv/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
