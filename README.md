@@ -54,7 +54,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roddg86&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddg86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddg86&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
