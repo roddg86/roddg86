@@ -59,7 +59,8 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :handshake: Connect with Me :
 
-- 📫 Telegram: [@arthorre](https://t.me/arthorre)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.ru/roddg)
+[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthorre)
 
 <!---
 roddg86/roddg86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
