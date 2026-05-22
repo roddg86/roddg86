@@ -19,11 +19,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian.
+I am a junior pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian.
 
-- 👀 I’m interested in Kotlin/Android
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Mobile Develop
+- 👀 I’m interested in Python/Pentest
+- 🌱 I’m currently learning Python
+- 💞️ I want to collaborate in finding vulnerabilities
 
 ---
 
