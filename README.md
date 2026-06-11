@@ -27,7 +27,7 @@ I am a junior pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roddg86&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roddg86&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### :hammer_and_wrench: Languages and Tools :
 
