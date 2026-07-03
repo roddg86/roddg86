@@ -93,8 +93,12 @@ r0dd9@matrix:~$ ./stats --labs
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=roddg86&show_icons=true&count_private=true&hide_border=true&title_color=00FF78&icon_color=28C8FF&text_color=DCE8FC&bg_color=06080F"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddg86&layout=compact&hide_border=true&langs_count=8&title_color=00FF78&text_color=DCE8FC&bg_color=06080F"/>
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roddg86&theme=github_dark"/>
+
+<br/>
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roddg86&theme=github_dark"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roddg86&theme=github_dark"/>
 
 <br/>
 
