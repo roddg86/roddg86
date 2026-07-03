@@ -1,8 +1,7 @@
 <!--
   Profile README for github.com/roddg86  (repo: roddg86/roddg86)
   Единый неоновый стиль: green #00FF78 · cyan #28C8FF · dark #06080F
-  Динамика: Pacman (ветка output) + 3D-contrib (папка profile-3d-contrib) —
-  генерируются GitHub Actions в .github/workflows/.
+  Динамика: Pacman (ветка output) — генерируется GitHub Action в .github/workflows/.
 -->
 
 <!-- ── ШАПКА: свой баннер ── -->
@@ -28,7 +27,7 @@
 <img src="https://img.shields.io/badge/status-active_hunt-00FF78?style=for-the-badge&labelColor=06080F" alt="status"/>
 &nbsp;
 <a href="https://hackerlab.pro/users/r0dd9">
-  <img src="https://img.shields.io/badge/HackerLab.pro-65%2B_labs-28C8FF?style=for-the-badge&labelColor=06080F" alt="hackerlab"/>
+  <img src="https://img.shields.io/badge/HackerLab.pro-28C8FF?style=for-the-badge&labelColor=06080F" alt="hackerlab"/>
 </a>
 
 </div>
@@ -55,13 +54,13 @@ r0dd9@matrix:~$ whoami
 r0dd9@matrix:~$ cat ./focus.txt
 > web application security · python offensive tooling · vuln research
 r0dd9@matrix:~$ ./stats --labs
-> HackerLab.pro ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65+ solved
+> HackerLab.pro — active labs & CTF practice
 ```
 
 - 🛡️ &nbsp;Junior pentester focused on **web application security**
 - 🐍 &nbsp;I build offensive tooling and automation in **Python**
 - 🔎 &nbsp;Interested in finding and responsibly disclosing **vulnerabilities**
-- 🧪 &nbsp;Practicing on **[HackerLab.pro](https://hackerlab.pro/users/r0dd9)** — 65+ labs solved
+- 🧪 &nbsp;Practicing on **[HackerLab.pro](https://hackerlab.pro/users/r0dd9)** — labs & CTF
 - 🤝 &nbsp;Open to collaborate on security research and CTFs
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B45AFF,50:28C8FF,100:00FF78&height=40&reversed=true&section=footer"/>
@@ -120,12 +119,6 @@ r0dd9@matrix:~$ ./stats --labs
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roddg86/roddg86/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/roddg86/roddg86/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-### <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="26"> Contribution City (3D)
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d contribution city"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF78,50:28C8FF,100:B45AFF&height=40&reversed=true&section=footer"/>
