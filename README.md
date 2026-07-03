@@ -18,7 +18,7 @@
 </h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF78&center=true&vCenter=true&width=560&lines=Junior+Penetration+Tester;Python+%7C+Security+Research;Breaking+things+to+make+them+safer" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF2E2E&center=true&vCenter=true&width=700&lines=root%40r0dd9%3A~%23+whoami;root%40r0dd9%3A~%23+junior+penetration+tester;root%40r0dd9%3A~%23+web+app+security+%7C+python;root%40r0dd9%3A~%23+breaking+things+to+make+them+safer" alt="typing" />
 </a>
 
 <br/><br/>
