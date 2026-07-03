@@ -93,12 +93,12 @@ r0dd9@matrix:~$ ./stats --labs
 
 <div align="center">
 
-<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roddg86&theme=github_dark"/>
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roddg86&theme=2077"/>
 
 <br/>
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roddg86&theme=github_dark"/>
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roddg86&theme=github_dark"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roddg86&theme=2077"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roddg86&theme=2077"/>
 
 <br/>
 
